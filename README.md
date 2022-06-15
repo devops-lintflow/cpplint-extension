@@ -13,7 +13,7 @@ Visual Studio Code, forked from https://github.com/secularbird/cpplint-extension
 
 ## Features
 
-![feature](https://github.com/devops-lintflow/cpplint-extension/raw/main/feature.png)
+![feature](feature.png)
 
 
 
