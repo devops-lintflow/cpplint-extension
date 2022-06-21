@@ -6,7 +6,7 @@
     "publisher": "craftslab",
     "repository": {
         "type": "Git",
-        "url": "https://github.com/devops-lintflow/cpplint-extension"
+        "url": "https://github.com/devops-lintflow/cpplint-vscode"
     },
     "engines": {
         "vscode": "^1.21.0"

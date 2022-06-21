@@ -1,12 +1,12 @@
-# cpplint-extension
+# cpplint-vscode
 
-[![Tag](https://img.shields.io/github/tag/devops-lintflow/cpplint-extension.svg?color=brightgreen)](https://github.com/devops-lintflow/cpplint-extension/tags)
+[![Tag](https://img.shields.io/github/tag/devops-lintflow/cpplint-vscode.svg?color=brightgreen)](https://github.com/devops-lintflow/cpplint-vscode/tags)
 
 
 
 ## Introduction
 
-*cpplint-extension* is an extension using the cpplint checker to provide C and C++ code style checker within
+*cpplint-vscode* is a VS Code extension using the cpplint checker to provide C and C++ code style checker within
 Visual Studio Code, forked from https://github.com/secularbird/cpplint-extension.
 
 
